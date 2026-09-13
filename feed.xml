@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 12:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:22 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/PKMS Personal Knowledge Management (Reddit)</title>
+      <link>https://www.reddit.com/r/PKMS/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:22 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Second Brain principles, Zettelkasten card index method, progressive summarization, and digital archiving.</description>
+    </item>
+<item>
       <title>Digital Products &amp; Notion Template Hub Initial Release</title>
       <link>https://digital-products-notion-hub.vercel.app/</link>
       <pubDate>Mon, 07 Sep 2026 12:10:57 GMT</pubDate>
