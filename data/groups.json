@@ -1,5 +1,24 @@
 [
   {
+    "id": "digital-products-notion-hub-reddit-20260924-1",
+    "title": "r/PromptEngineering Knowledge Structuring",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "140,000+ members",
+    "description": "Prompting techniques for synthesising lengthy meeting notes, formatting tables, and database extraction.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompting",
+      "summarization",
+      "tables",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "digital-products-notion-hub-reddit-20260923-1",
     "title": "r/ChatGPT Productivity & Prompt Workflows",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
