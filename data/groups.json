@@ -1,5 +1,24 @@
 [
   {
+    "id": "digital-products-notion-hub-telegram-20260930-1",
+    "title": "TechCrunch Productivity SaaS Releases",
+    "platform": "Telegram",
+    "category": "News",
+    "memberCount": "65,000+ members",
+    "description": "Updates on enterprise collaboration platforms, AI copilot launches, and workplace software.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "saas",
+      "collaboration",
+      "news"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "digital-products-notion-hub-discord-20260929-1",
     "title": "Tech Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
