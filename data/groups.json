@@ -1,5 +1,24 @@
 [
   {
+    "id": "digital-products-notion-hub-telegram-20261003-1",
+    "title": "AI Insights Telegram Stream",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "55,000+ members",
+    "description": "Real-time updates on emerging personal AI assistants, local models, and automation integrations.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "ai",
+      "assistants",
+      "news"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-03"
+  },
+  {
     "id": "digital-products-notion-hub-reddit-20261002-1",
     "title": "r/workfromhome Async Workspace Setup",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-02"
   },
   {
