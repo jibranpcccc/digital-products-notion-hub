@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:01:09 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:01:09 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-forum-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:07:10 GMT</pubDate>
       <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Spaced repetition algorithms (SM-2, FSRS), cloze deletion strategies, flashcard automation, and retention science.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/GetOrganized Daily Routines &amp; Systems (Reddit)</title>
-      <link>https://www.reddit.com/r/GetOrganized/</link>
-      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:52 GMT</pubDate>
-      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Practical organization strategies, physical and digital decluttering, filing hierarchies, and routines.</description>
     </item>
   </channel>
 </rss>
