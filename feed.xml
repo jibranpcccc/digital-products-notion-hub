@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:01:12 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:01:12 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-forum-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:01:03 GMT</pubDate>
       <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Discover and review the latest personal productivity apps, second brain tools, and browser extensions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Businesscord Operations &amp; Dashboards (Discord)</title>
-      <link>https://discord.gg/business</link>
-      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-discord-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:01:20 GMT</pubDate>
-      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Corporate productivity, KPI dashboards, project management systems, and team collaboration.</description>
     </item>
   </channel>
 </rss>
