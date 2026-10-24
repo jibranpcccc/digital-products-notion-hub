@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:01:08 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:01:08 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20260924-1-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:01:06 GMT</pubDate>
       <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Prompting techniques for synthesising lengthy meeting notes, formatting tables, and database extraction.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ChatGPT Productivity &amp; Prompt Workflows (Reddit)</title>
-      <link>https://www.reddit.com/r/ChatGPT/</link>
-      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20260923-1-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:01:05 GMT</pubDate>
-      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Using custom GPTs, automated task generation, and prompt chains to supercharge personal productivity.</description>
     </item>
   </channel>
 </rss>
