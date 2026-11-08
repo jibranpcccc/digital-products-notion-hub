@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 06:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:01:10 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                            <item>
+                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 06:01:10 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-11-06</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-github-20261009-1-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 06:01:14 GMT</pubDate>
       <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-discord-20261008-1-2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 06:01:10 GMT</pubDate>
-      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
