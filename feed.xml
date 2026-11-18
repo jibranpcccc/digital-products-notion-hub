@@ -4,10 +4,17 @@
     <title>Digital Products &amp; Notion Template Hub</title>
     <link>https://digital-products-notion-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:22:28 GMT</lastBuildDate>
     <atom:link href="https://digital-products-notion-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/ObsidianMD Personal Knowledge (Reddit)</title>
+      <link>https://www.reddit.com/r/ObsidianMD/</link>
+      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-template-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:22:28 GMT</pubDate>
+      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: Discussions on Markdown vaults, Zettelkasten methods, Dataview queries, graph theory, and local-first notes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-11-18</guid>
@@ -173,13 +180,6 @@
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:01:08 GMT</pubDate>
-      <description>Newly verified community added to Digital Products &amp; Notion Template Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
-      <link>https://www.reddit.com/r/linux/</link>
-      <guid isPermaLink="false">https://digital-products-notion-hub.vercel.app/#digital-products-notion-hub-reddit-20261017-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:01:07 GMT</pubDate>
       <description>Newly verified community added to Digital Products &amp; Notion Template Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
     </item>
   </channel>
