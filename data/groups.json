@@ -1,5 +1,24 @@
 [
   {
+    "id": "digital-products-notion-template-hub-forum-7",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Knowledge Management",
+    "memberCount": "110,000+ members",
+    "description": "Feature requests, plugin documentation, CSS snippet sharing, and academic knowledge management workflows.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "forum",
+      "knowledge",
+      "plugins"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "digital-products-notion-template-hub-telegram-6",
     "title": "Daily Productivity & Automation Hacks",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -663,24 +682,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "digital-products-notion-template-hub-forum-7",
-    "title": "Obsidian Official Community Forum",
-    "platform": "Forum",
-    "category": "Knowledge Management",
-    "memberCount": "110,000+ members",
-    "description": "Feature requests, plugin documentation, CSS snippet sharing, and academic knowledge management workflows.",
-    "joinUrl": "https://forum.obsidian.md",
-    "tags": [
-      "obsidian",
-      "forum",
-      "knowledge",
-      "plugins"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "digital-products-notion-template-hub-reddit-8",
